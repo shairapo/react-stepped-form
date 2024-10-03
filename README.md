@@ -32,8 +32,8 @@ To run this project locally, follow these steps:
 Follow the prompts in the multi-step form to enter your information. Each step collects specific data, and you can navigate back and forth through the steps as needed.
 
 ## Technologies Used
-React
-Material-UI (MUI)
-JavaScript
-CSS
+- React
+- Material-UI (MUI)
+- JavaScript
+- CSS
    
