@@ -32,8 +32,10 @@ To run this project locally, follow these steps:
 Follow the prompts in the multi-step form to enter your information. Each step collects specific data, and you can navigate back and forth through the steps as needed.
 
 ## Technologies Used
-- React
-- Material-UI (MUI)
-- JavaScript
-- CSS
+- **React**: A JavaScript library for building user interfaces.
+- **Material-UI (MUI)**: A React UI framework providing pre-designed components.
+- **Formik**: A library for managing form state and validation.
+- **Yup**: A JavaScript schema builder for value parsing and validation.
+- **JavaScript**: The programming language used throughout the application.
+- **CSS**: Used for styling components and layouts.
    
